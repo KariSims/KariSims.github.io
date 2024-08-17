@@ -1,3 +1,3 @@
-# prince-simba.github.io
+# Prince SIMBA Portfolio
 
-KariSims portfolio
+KariSims.github.io
