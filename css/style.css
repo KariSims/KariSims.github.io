@@ -181,6 +181,9 @@ a:focus {
     }
     
     .navbar .navbar-brand {
+        color: #111111; /*#ffffff;*/
+    }
+    .navbar .navbar-brand:hover{
         color: #ffffff;
     }
     
