@@ -503,6 +503,11 @@ a:focus {
     font-size: 16px;
 }
 
+.about .about-text p i {
+    font-size: 12px;
+    color: #89CFF3;
+}
+
 .about .skills {
     margin-bottom: 30px;
 }
