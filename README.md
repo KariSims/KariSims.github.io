@@ -1,3 +1,3 @@
 # Prince SIMBA Portfolio
 
-Official link : KariSims.github.io
+Official link : https://www.karisims.github.io
