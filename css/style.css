@@ -504,7 +504,7 @@ a:focus {
 }
 
 .about .about-text p i {
-    font-size: 12px;
+    font-size: smaller;
     color: #89CFF3;
 }
 
