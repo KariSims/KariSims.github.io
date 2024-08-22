@@ -1,6 +1,6 @@
 # Prince SIMBA Portfolio
 
-Official link :point_right: : https://karisims.github.io/
+Official link, click here :point_right: : https://karisims.github.io/
 
 Ce portfolio se veut ma vitrine numérique fidèle présentant essentiellement une collection de mes projets.
 
