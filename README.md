@@ -8,6 +8,8 @@ Il sera continuellement garni
 
 Il a aussi pour rôle de vous donner une idée de la curiosité et passion qui m'anime:sparkles:
 
+
+-------------------------------------------------------------------------------------
   =>  Template Name    : DevFolio - Developer Portfolio Template
 
   =>  Template Link    : https://htmlcodex.com/developer-portfolio-template
