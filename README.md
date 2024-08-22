@@ -4,9 +4,8 @@ Official link :point_right: : https://karisims.github.io/
 
 Ce portfolio se veut ma vitrine numérique fidèle présentant essentiellement une collection de mes projets.
 
-Il sera continuellement garni
-
-Il a aussi pour rôle de vous donner une idée de la curiosité et passion qui m'anime:sparkles:
+Il sera continuellement garni, je vous le garantie :ok_hand:. 
+Il a aussi pour rôle de vous donner une idée de la curiosité et passion qui m'anime :sparkles:
 
 
 -------------------------------------------------------------------------------------
